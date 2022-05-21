@@ -1,6 +1,6 @@
 # Retributive Strike
 
-An item macro for the retributive strike, based off the (Staff of Power)[https://www.dndbeyond.com/magic-items/4764-staff-of-power].
+An item macro for the retributive strike, based off the [Staff of Power](https://www.dndbeyond.com/magic-items/4764-staff-of-power).
 
 **Requires:**
 
